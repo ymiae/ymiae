@@ -11,15 +11,15 @@
 
 - 🤝 I’m looking for help with **any kind of problems that needs a solving.**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/pm-miaeyoo](www.linkedin.com/in/pm-miaeyoo)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/pm-miaeyoo](https://www.linkedin.com/in/pm-miaeyoo/)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/pm-miaeyoo](www.linkedin.com/in/pm-miaeyoo)
+- 📝 I regularly write articles on [www.linkedin.com/in/pm-miaeyoo](https://www.linkedin.com/in/pm-miaeyoo/)
 
 - 💬 Ask me about **any kind of problems that need to be solve.**
 
 - 📫 How to reach me **yma486@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/pm-miaeyoo](www.linkedin.com/in/pm-miaeyoo)
+- 📄 Know about my experiences [www.linkedin.com/in/pm-miaeyoo](https://www.linkedin.com/in/pm-miaeyoo/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
