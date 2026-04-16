@@ -1,31 +1,62 @@
 <h1 align="center">Hi 👋🏻, I'm Mi-Ae, Yoo</h1>
 <h3 align="center">A passionate Problem Solving Product Manager from South Korea.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ymiae&label=Profile%20views&color=0e75b6&style=flat" alt="ymiae" /> </p>
-
-- 🔭 I’m currently working on **incometax reporting problem.**
-
-- 🌱 I’m currently learning **data analysis.**
-
-- 👯 I’m looking to collaborate on **any projects that will make our life little more comfortable.**
-
-- 🤝 I’m looking for help with **any kind of problems that needs a solving.**
-
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/pm-miaeyoo](https://www.linkedin.com/in/pm-miaeyoo/)
-
-- 📝 I regularly write articles on [www.linkedin.com/in/pm-miaeyoo](https://www.linkedin.com/in/pm-miaeyoo/)
-
-- 💬 Ask me about **any kind of problems that need to be solve.**
-
-- 📫 How to reach me **yma486@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/pm-miaeyoo](https://www.linkedin.com/in/pm-miaeyoo/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pm-miaeyoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pm-miaeyoo" height="30" width="40" /></a>
-<a href="https://instagram.com/ymiae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ymiae" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ymiae&label=Profile%20views&color=0e75b6&style=flat" alt="ymiae" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+---
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ymiae&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="420" />
+
+### About Me
+
+🔭 Currently working in the **TaxTech industry**, solving complex tax-related problems with technology.
+
+🛠 Building my own products with **Claude Code** — turning ideas into real apps, hands-on.
+
+🎯 My goal: **build multiple products, solve real problems, and create passive income** from those solutions.
+
+💡 Got a small problem that needs solving? **Let's build something together.**
+
+<br clear="both" />
+
+---
+
+### 📫 Get in Touch
+
+<p align="center">
+  <a href="https://linkedin.com/in/pm-miaeyoo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:yma486@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 🧰 Tools I Use Daily
+
+<p align="center">
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  </a>
+  &nbsp;
+  <a href="https://claude.ai/code" target="_blank">
+    <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  </a>
+  &nbsp;
+  <a href="https://chat.openai.com/" target="_blank">
+    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  </a>
+  &nbsp;
+  <a href="https://antigravity.ai/" target="_blank">
+    <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logoColor=white" alt="Antigravity" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ymiae" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
