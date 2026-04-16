@@ -44,4 +44,12 @@
 
 ### 🧰 Tools I Use Daily
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> &nbsp; <img src="https://img.shields.io/badge/Claude Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" /> &nbsp; <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logoColor=white" alt="Antigravity" /> &nbsp; <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" /> &nbsp; <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> &nbsp; <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> &nbsp; <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" /> &nbsp; <img src="https://img.shields.io/badge/Antigravity-6236FF?style=for-the-badge&logoColor=white" alt="Antigravity" /> &nbsp; <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" /> &nbsp; <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> &nbsp; <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ymiae/ymiae/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ymiae/ymiae/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ymiae/ymiae/output/github-snake.svg" />
+</picture>
