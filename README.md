@@ -50,22 +50,12 @@
 
 ### 🧰 Tools I Use Daily
 
-<a href="https://www.figma.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</a>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 &nbsp;
-<a href="https://claude.ai/code" target="_blank">
-  <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-</a>
+<img src="https://img.shields.io/badge/Claude Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
 &nbsp;
-<a href="https://chat.openai.com/" target="_blank">
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-</a>
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
 &nbsp;
-<a href="https://antigravity.ai/" target="_blank">
-  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logoColor=white" alt="Antigravity" />
-</a>
+<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logoColor=white" alt="Antigravity" />
 &nbsp;
-<a href="https://github.com/ymiae" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
