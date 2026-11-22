@@ -47,12 +47,10 @@
 
 ### 🚀 What I'm Building
 
-| | |
-|:--:|:--|
-| 🌐 | **2 live web products** — designed, built, and run solo with an AI pair |
-| ⚙️ | **Hands-off automation** — content refreshes and metrics dashboards run themselves on GitHub Actions |
-| 📏 | **Kill criteria first** — every idea ships with numeric success/stop rules before a line of code |
-| 🧪 | **Next idea in the lab** — always testing what's worth building next |
+- 🌐 **2 live web products** — designed, built, and run solo with an AI pair
+- ⚙️ **Hands-off automation** — content refreshes and metrics dashboards run themselves on GitHub Actions
+- 📏 **Kill criteria first** — every idea ships with numeric success/stop rules before a line of code
+- 🧪 **Next idea in the lab** — always testing what's worth building next
 
 ---
 
@@ -60,7 +58,7 @@
 
 | Role | Teammate | What they do |
 |:--|:--|:--|
-| 🧑‍💼 Product lead | **Me** | Find the problem, decide what's worth building |
+| 🎯 Product lead | **Me** | Find the problem, decide what's worth building |
 | 🛠 Builder | **Claude Code** | Turns plans into working products |
 | 🔍 Cross-checker | **Codex** | Second opinion on plans, research, and QA |
 
@@ -68,7 +66,7 @@
 
 ### 🧰 Tools I Use Daily
 
-<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" /> <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" /> <img src="https://img.shields.io/badge/Antigravity-6236FF?style=for-the-badge&logoColor=white" alt="Antigravity" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" /> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" /> <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" /> <img src="https://img.shields.io/badge/Antigravity-6236FF?style=for-the-badge&logoColor=white" alt="Antigravity" /> <img src="https://img.shields.io/badge/GitHub-6E7681?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" /> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
 
 ---
 
